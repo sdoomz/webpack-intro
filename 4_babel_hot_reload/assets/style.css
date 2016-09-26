@@ -1,0 +1,16 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.content {
+    text-align:center
+}
+
+.logo {
+    background: url(logo.jpg);
+    display: block;
+    width: 202px;
+    height: 202px;
+    margin: 0 auto;
+}
