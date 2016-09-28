@@ -7,7 +7,10 @@ export default class Hello extends Component {
 
   render() {
     return (
-      <h1>Demo App!</h1>
+      <div>
+        <h1>Demo App!</h1>
+        <input type='text'/>
+      </div>
     )
   }
 }

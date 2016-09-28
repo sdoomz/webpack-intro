@@ -3,4 +3,10 @@ var App = {
   module2: require('./module2.js')
 };
 
+if (true) {
+  console.log('true')
+} else {
+  console.log('false')
+}
+
 console.log('App:', App);
